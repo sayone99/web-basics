@@ -4,3 +4,16 @@ p {
     text-align : center; 
     /* 위의 코드는 텍스트를 가운데 정렬한다. */
 }
+div {
+    font-size: 20px;
+    font-weight: 400;
+      
+    
+}
+
+p, div {
+    line-height : 1.6;
+    /* margin-left: auto;
+    margin-right: auto; */
+}
+
